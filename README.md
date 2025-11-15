@@ -102,11 +102,11 @@ respiracao_guiada
    - **PIR** → mova o cursor na frente do sensor para detectar presença.  
    - **Potenciômetro** → gire o knob para simular aumento de estresse.  
 5. Observe no console e no LED/Buzzer como o dispositivo reage aos diferentes cenários.  
-6. (Opcional) Valide a comunicação MQTT conectando ao **HiveMQ WebSocket Client** e assinando os tópicos.
+6. Valide a comunicação MQTT conectando ao **HiveMQ WebSocket Client** e assinando os tópicos.
 
 ---
 
-## 📡 Testando o MQTT com o HiveMQ Web Client (Opcional)
+## 📡 Testando o MQTT com o HiveMQ Web Client 
 
 1. Acesse: https://www.hivemq.com/demos/websocket-client/?path=/mqtt
 2. Configure a conexão:  
