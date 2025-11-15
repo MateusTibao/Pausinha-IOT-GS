@@ -31,6 +31,13 @@ Além disso, o módulo envia os dados via **MQTT** para integração com dashboa
 
 ---
 
+## 🖥️ Simulação Wokwi
+
+Link para acesso: https://wokwi.com/projects/447553541199353857
+
+
+---
+
 ## 📹 Video explicativo
 
 Link para acesso: 
