@@ -131,5 +131,5 @@ Você verá mensagens JSON sendo publicadas pelo ESP32 sempre que o tipo de paus
 O ESP32 aplicará esse comando durante 15 segundos, demonstrando o modo de controle remoto/smart.
 
 ## Créditos
-Um trabalho realizado pela equipe composta por Caio Hideki, Jorge Booz e Mateus Tibão.
+Um trabalho realizado pela equipe composta por Caio Hideki (553630), Jorge Booz (552700) e Mateus Tibão (553267).
 
