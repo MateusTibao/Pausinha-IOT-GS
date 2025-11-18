@@ -1,6 +1,8 @@
-# Pausinha IoT – Módulo de Bem-Estar no Futuro do Trabalho
+<img width="3000" alt="logo horizontal" src="https://github.com/user-attachments/assets/feb01b80-17bb-4167-a3b9-6687f8ac4097" />
 
-O **Pausinha IoT** é um protótipo desenvolvido para a Global Solution 2025 – *O Futuro do Trabalho*.  
+---
+
+O **Pausinha** é um protótipo desenvolvido para a Global Solution 2025 – *O Futuro do Trabalho*.  
 Ele representa o “dispositivo físico” do sistema Pausinha: um módulo com ESP32 que monitora o ambiente e o comportamento do usuário e sugere pausas inteligentes durante a jornada de trabalho.
 
 A ideia é mostrar, na prática, como **IoT + IoB (Internet of Behaviors)** podem apoiar a saúde e a produtividade de profissionais que passam horas em frente ao computador.
