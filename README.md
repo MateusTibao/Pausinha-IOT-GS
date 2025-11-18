@@ -2,10 +2,11 @@
 
 ---
 
-O **Pausinha** é um protótipo desenvolvido para a Global Solution 2025 – *O Futuro do Trabalho*.  
-Ele representa o “dispositivo físico” do sistema Pausinha: um módulo com ESP32 que monitora o ambiente e o comportamento do usuário e sugere pausas inteligentes durante a jornada de trabalho.
+O Pausinha nasceu originalmente como um software de bem-estar corporativo, projetado para sugerir pausas ativas, alongamentos, hidratação e exercícios de respiração ao longo da jornada de trabalho. A proposta central sempre foi promover saúde, reduzir os efeitos do sedentarismo e equilibrar produtividade e bem-estar em ambientes digitais.
 
-A ideia é mostrar, na prática, como **IoT + IoB (Internet of Behaviors)** podem apoiar a saúde e a produtividade de profissionais que passam horas em frente ao computador.
+Para a Global Solution 2025 – O Futuro do Trabalho, essa ideia foi estendida para o universo de IoT, transformando o conceito do aplicativo em um dispositivo físico inteligente. Assim surgiu o Pausinha IoT: um módulo baseado em ESP32 capaz de monitorar o ambiente e o comportamento do usuário em tempo real, aplicando princípios de IoT + IoB (Internet of Behaviors) para sugerir pausas inteligentes.
+
+Nessa versão, sensores e atuadores permitem que o sistema registre luminosidade, movimento e sinais de estresse, tome decisões automáticas e envie dados para análise via MQTT, demonstrando como tecnologias de automação podem reforçar saúde, ergonomia e qualidade de vida no futuro do trabalho.
 
 ---
 
