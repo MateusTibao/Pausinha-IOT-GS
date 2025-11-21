@@ -86,15 +86,14 @@ Toda a solução foi implementada e testada em simulação, utilizando o ambient
 
 <img width="704" height="488" alt="image" src="https://github.com/user-attachments/assets/a580f662-1340-4f7c-bd12-ce670df9e1a0" />
 
-- **Link da simulação:**  
-  [https://wokwi.com/projects/447553541199353857](https://wokwi.com/projects/447553541199353857)
+- **Link da simulação:** [https://wokwi.com/projects/447553541199353857](https://wokwi.com/projects/447553541199353857)
 
 
 ---
 
 ## 📹 Vídeo Explicativo
 
-- **Link para acesso:** _[preencher após upload]_  
+- **Link para acesso:** https://youtu.be/vATxM0fH5uI
 
 No vídeo são apresentados:
 
